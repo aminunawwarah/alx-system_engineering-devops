@@ -1,2 +1,2 @@
 #!/bin/bash
-Use the command ls -al
+ls -al
